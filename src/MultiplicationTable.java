@@ -30,6 +30,7 @@ public class MultiplicationTable {
 			System.out.println();
 		}
 		
+		scan.close();
 
 	}
 
